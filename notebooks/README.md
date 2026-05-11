@@ -8,6 +8,8 @@
 | Notebook 3 | Deep neural networks | [Open in Colab](https://colab.research.google.com/drive/1KZE1B-2D27JwI6JuED5ft2i_zIrU88Id?usp=sharing) |
 | Notebook 4 | Loss functions and optimizers | [Open in Colab](https://colab.research.google.com/drive/1uFKNoaSDivH1jA4bCTE861WWaSfPOb3s?usp=sharing) |
 | Notebook 5 | Measuring performance and regularization | [Open in Colab](https://colab.research.google.com/drive/1sI5nzFFFJ9C9aQxC3cR1ts_ImJwvM65Z?usp=sharing) |
+| Notebook 6 | Convolutional and residual networks | [Open in Colab](https://colab.research.google.com/drive/1WLO-JorH95jIBc1nyb-5jR6EReSwAVqn?usp=sharing) |
+| Notebook 7 | Transformers and attention mechanisms | [Open in Colab](https://colab.research.google.com/drive/1om_JDZE69eP6lxD6RsbFwA8cBx0nQ0BT?usp=sharing) |
 
 ---
 
