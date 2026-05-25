@@ -10,6 +10,7 @@
 | Notebook 5 | Measuring performance and regularization | [Open in Colab](https://colab.research.google.com/drive/1sI5nzFFFJ9C9aQxC3cR1ts_ImJwvM65Z?usp=sharing) |
 | Notebook 6 | Convolutional and residual networks | [Open in Colab](https://colab.research.google.com/drive/1WLO-JorH95jIBc1nyb-5jR6EReSwAVqn?usp=sharing) |
 | Notebook 7 | Transformers and attention mechanisms | [Open in Colab](https://colab.research.google.com/drive/1om_JDZE69eP6lxD6RsbFwA8cBx0nQ0BT?usp=sharing) |
+| Notebook 8 | Generative models | [Open in Colab](https://colab.research.google.com/drive/1ko8DDfS76wGzDxUAKLHYJVbPfVZuZBJk?usp=sharing) |
 
 ---
 
